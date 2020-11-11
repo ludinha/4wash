@@ -1,0 +1,1 @@
+enum SingingCharacter { lavagem1 , lavagem2 , lavagem3 }
